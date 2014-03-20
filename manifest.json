@@ -29,6 +29,9 @@
         "tabs",
         "<all_urls>"
     ],
+    "web_accessible_resources": [
+        "/js/jquery-1.9.1.min.js"
+    ],
     "converted_from_user_script":true,
     "description":"Control XBMC's YouTube plugin.",
     "minimum_chrome_version":"13",
